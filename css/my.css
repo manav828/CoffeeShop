@@ -1,0 +1,21 @@
+.post-slide .post-img img{
+    height: 350px;
+    width: 100%;
+}
+
+.logo{
+    height: 100%;
+    margin: auto;
+}
+
+.mymar{
+    margin-top: -20px;
+}
+
+body{
+    scroll-behavior: smooth;
+}
+
+.smooth{
+    scroll-behavior: smooth;
+}
